@@ -3,7 +3,7 @@
 - 🌱 I’m currently enrolled in a new programme called Happy Digital X
 - 💞️ I’m looking to collaborate with my course-mates on the challenge projects during the course; and also other science centre develpoment projects
 - 📫 My work email is lim_tit_meng@science.edu.sg
-
+- My personal email is tmlim60@gmail.com
 <!---
 TMLim-HDXSCS/TMLim-HDXSCS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
